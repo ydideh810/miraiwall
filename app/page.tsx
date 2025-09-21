@@ -271,7 +271,7 @@ export default function MiraiWallPage() {
           </div>
 
           <p className="font-sans text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Redeem license keys to claim tiles and reveal exclusive utility content in this{" "}
+            The Grid Remembers.{" "}
             <span className="text-primary font-semibold">cyberpunk digital space</span>
           </p>
 
